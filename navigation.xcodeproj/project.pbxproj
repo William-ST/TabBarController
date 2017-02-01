@@ -13,6 +13,8 @@
 		FBBF5E421E41653A002F41A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FBBF5E411E41653A002F41A0 /* Assets.xcassets */; };
 		FBBF5E451E41653A002F41A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBBF5E431E41653A002F41A0 /* LaunchScreen.storyboard */; };
 		FBBF5E6B1E416E79002F41A0 /* NuevoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBBF5E6A1E416E79002F41A0 /* NuevoViewController.swift */; };
+		FBBF5E6D1E417F90002F41A0 /* TerceraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBBF5E6C1E417F90002F41A0 /* TerceraViewController.swift */; };
+		FBBF5E6F1E417FAF002F41A0 /* CuartaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBBF5E6E1E417FAF002F41A0 /* CuartaViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		FBBF5E441E41653A002F41A0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FBBF5E461E41653A002F41A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FBBF5E6A1E416E79002F41A0 /* NuevoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NuevoViewController.swift; sourceTree = "<group>"; };
+		FBBF5E6C1E417F90002F41A0 /* TerceraViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TerceraViewController.swift; sourceTree = "<group>"; };
+		FBBF5E6E1E417FAF002F41A0 /* CuartaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CuartaViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				FBBF5E431E41653A002F41A0 /* LaunchScreen.storyboard */,
 				FBBF5E461E41653A002F41A0 /* Info.plist */,
 				FBBF5E6A1E416E79002F41A0 /* NuevoViewController.swift */,
+				FBBF5E6C1E417F90002F41A0 /* TerceraViewController.swift */,
+				FBBF5E6E1E417FAF002F41A0 /* CuartaViewController.swift */,
 			);
 			path = navigation;
 			sourceTree = "<group>";
@@ -142,6 +148,8 @@
 				FBBF5E6B1E416E79002F41A0 /* NuevoViewController.swift in Sources */,
 				FBBF5E3D1E41653A002F41A0 /* ViewController.swift in Sources */,
 				FBBF5E3B1E41653A002F41A0 /* AppDelegate.swift in Sources */,
+				FBBF5E6F1E417FAF002F41A0 /* CuartaViewController.swift in Sources */,
+				FBBF5E6D1E417F90002F41A0 /* TerceraViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
