@@ -21,5 +21,9 @@ class ViewController: UIViewController {
     }
 
 
-}
+    @IBAction func actionNavigateCod(_ sender: UIButton) {
+        self.performSegue(withIdentifier: "transition", sender: sender)
+    
+    }
 
+}

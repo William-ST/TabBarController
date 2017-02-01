@@ -12,6 +12,7 @@
 		FBBF5E401E41653A002F41A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBBF5E3E1E41653A002F41A0 /* Main.storyboard */; };
 		FBBF5E421E41653A002F41A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FBBF5E411E41653A002F41A0 /* Assets.xcassets */; };
 		FBBF5E451E41653A002F41A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBBF5E431E41653A002F41A0 /* LaunchScreen.storyboard */; };
+		FBBF5E6B1E416E79002F41A0 /* NuevoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBBF5E6A1E416E79002F41A0 /* NuevoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FBBF5E411E41653A002F41A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FBBF5E441E41653A002F41A0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FBBF5E461E41653A002F41A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FBBF5E6A1E416E79002F41A0 /* NuevoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NuevoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				FBBF5E411E41653A002F41A0 /* Assets.xcassets */,
 				FBBF5E431E41653A002F41A0 /* LaunchScreen.storyboard */,
 				FBBF5E461E41653A002F41A0 /* Info.plist */,
+				FBBF5E6A1E416E79002F41A0 /* NuevoViewController.swift */,
 			);
 			path = navigation;
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FBBF5E6B1E416E79002F41A0 /* NuevoViewController.swift in Sources */,
 				FBBF5E3D1E41653A002F41A0 /* ViewController.swift in Sources */,
 				FBBF5E3B1E41653A002F41A0 /* AppDelegate.swift in Sources */,
 			);
@@ -297,6 +301,7 @@
 				FBBF5E4B1E41653A002F41A0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
